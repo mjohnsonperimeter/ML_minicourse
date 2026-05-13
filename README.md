@@ -4,7 +4,7 @@ The rapidly evolving landscape of artificial intelligence (AI) and machine learn
 
 Wednesdays, 1PM, PSE 258
 
-Matt Johnons, matthewj at yorku.ca
+Matt Johnson, matthewj at yorku.ca
 
 Lecture 1 link: https://www.dropbox.com/scl/fi/ez5n4lvz9oh0g3tuga4il/Lecture_1.pdf?rlkey=t4tq1nwlvm018gmvekbugy3ca&dl=0
 
