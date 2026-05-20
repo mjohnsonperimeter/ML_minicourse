@@ -6,5 +6,22 @@ Wednesdays, 1PM, PSE 258
 
 Matt Johnson, matthewj at yorku.ca
 
+Lecture 1, May 13: Introduction and MLPs
+
 Lecture 1 link: https://www.dropbox.com/scl/fi/ez5n4lvz9oh0g3tuga4il/Lecture_1.pdf?rlkey=t4tq1nwlvm018gmvekbugy3ca&dl=0
 
+Lecture 2, May 20: How to use LLMs and agents as a research assistant
+
+Lecture 2 link: 
+
+Lecture 3, May 27: Generative AI - variational autoencoders, diffusion models
+
+Lecture 3 link:
+
+Lecture 4, June 3: Transformers and scaling laws
+
+Lecture 4 link:
+
+Lecture 5, June 10: TBD
+
+Lecture 5 link:
