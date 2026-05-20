@@ -12,7 +12,7 @@ Lecture 1 link: https://www.dropbox.com/scl/fi/ez5n4lvz9oh0g3tuga4il/Lecture_1.p
 
 Lecture 2, May 20: How to use LLMs and agents as a research assistant
 
-Lecture 2 link: 
+Lecture 2 link: https://drive.google.com/file/d/19feshZcl0WONe8fqVaTd2_Mkn2e7yT5Q/view
 
 Lecture 3, May 27: Generative AI - variational autoencoders, diffusion models
 
