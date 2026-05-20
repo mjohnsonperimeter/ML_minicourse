@@ -25,3 +25,5 @@ Lecture 4 link:
 Lecture 5, June 10: TBD
 
 Lecture 5 link:
+
+Claude code on web: https://code.claude.com/docs/en/web-quickstart
