@@ -14,9 +14,9 @@ Lecture 2, May 20: How to use LLMs and agents as a research assistant
 
 Lecture 2 link: https://drive.google.com/file/d/19feshZcl0WONe8fqVaTd2_Mkn2e7yT5Q/view
 
-Lecture 3, May 27: Generative AI - variational autoencoders, diffusion models
+Lecture 3, May 27: Convolutional Neural Networks, autoencoders, variational autoencoders and generative AI
 
-Lecture 3 link:
+Lecture 3 link: https://www.dropbox.com/scl/fi/8ununye4pbumfmxd617zu/Lecture_3.pdf?rlkey=63xqug2930c59985otpkvnh8k&dl=0
 
 Lecture 4, June 3: Transformers and scaling laws
 
