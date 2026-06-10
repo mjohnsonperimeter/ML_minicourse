@@ -28,8 +28,10 @@ Lecture 4 link:https://www.dropbox.com/scl/fi/fgbhkjh53l3asb859jdvw/Lecture_4.pd
 
 Lecture 4 companion notebooks: rnn_language_model.ipynb, transformer_shakespeare.ipynb, and scaling_laws_sinusoid.ipynb
 
-Lecture 5, June 10: TBD
+Lecture 5, June 10: Foundation models, case studies for ML in math, physics, astronomy
 
-Lecture 5 link:
+Lecture 5 link: https://www.dropbox.com/scl/fi/s2vpj2yc7uf02xmhuqqt2/Lecture_5.pdf?rlkey=00oayq4kacwn9xbmvbet2y4or&dl=0
+
+Lecture 5 companion notebooks: huggingface_intro.ipynb
 
 Claude code on web: https://code.claude.com/docs/en/web-quickstart
